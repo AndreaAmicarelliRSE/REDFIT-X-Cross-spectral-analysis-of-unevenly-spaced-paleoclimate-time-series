@@ -20,13 +20,13 @@ Manfred Mudelsee		mudelsee@climate-risk-analysis.com
 
 Folders:
 
-.\bin		Executable files
+.\bin		      Executable files
 
-.\src		Fortran 90 source code
+.\src		      Fortran 90 source code
 
-.\doc		Documentation - User manual
+.\doc		      Documentation - User manual
 
-.\example 	Examples and configuration file
+.\example 	  Examples and configuration file
 
 
 
